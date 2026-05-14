@@ -12,4 +12,6 @@ exemples of how to see the project
 
 ### Authors
 
-Matheus Maggiorini
+ic-humber - Ítalo
+renan-olovics-humber - Renan
+n10008228 - Matheus

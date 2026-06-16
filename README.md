@@ -12,7 +12,7 @@ exemples of how to see the project
 
 ### Authors
 
-n10042815 -Armaan
+
 n10008228 - Matheus
 1andrepl - andre
 

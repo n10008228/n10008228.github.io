@@ -1,0 +1,6 @@
+# Local only — do not commit
+node_modules/
+terminal_session.txt
+exercise5b_session.log
+package-lock.json
+.env

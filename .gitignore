@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+.env
+**/terminal_session.txt
+**/*_session.log
+DOCS/exercise-5b/run_remote.js

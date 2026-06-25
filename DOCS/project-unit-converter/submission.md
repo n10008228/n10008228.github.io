@@ -8,7 +8,7 @@
 
 ## Who writes each section (even split)
 
-| # | Section | Written by |
+| # | Section | Written |
 |---|---------|------------|
 | 1 | Project Topic | Matheus Maggiorini |
 | 2 | Project Description | Matheus Maggiorini |
@@ -41,9 +41,8 @@ We are building the project as a Bash shell script because CPAN133 focuses on th
 
 ## 3. Project Objectives
 
-*(Andre — fill in and paste here)*
 
-1. **Length conversions** — Convert between common length units (e.g., centimeters to meters, inches to centimeters, feet to meters, kilometers to miles).
+1. **Length conversions** - Convert between common length units (e.g., centimeters to meters, inches to centimeters, feet to meters, kilometers to miles).
 2. **Weight conversions** — Convert between imperial and metric weight units (e.g., pounds to kilograms, kilograms to pounds, ounces to grams).
 3. **Temperature conversions** — Convert between Fahrenheit, Celsius, and Kelvin using standard formulas.
 4. **Interactive menu** — Provide a clear text menu so users can choose a category and conversion type without memorizing command-line flags.
@@ -55,7 +54,7 @@ We are building the project as a Bash shell script because CPAN133 focuses on th
 
 ## 4. Task Distribution
 
-*(Andre — fill in and paste here)*
+
 
 ### Code (even split)
 
@@ -76,7 +75,6 @@ We are building the project as a Bash shell script because CPAN133 focuses on th
 
 ## 6. GitHub Repository URL of Team Lead
 
-*(Andre — confirm URL and paste here)*
 
 https://github.com/n10008228/n10008228.github.io
 

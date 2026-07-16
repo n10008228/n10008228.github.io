@@ -3,16 +3,3 @@ Line 2
 Line 3
 Line 4
 Line 5
-
---- GitHub push proof ---
-Student: Matheus Maggiorini (n10008228)
-Repository: https://github.com/n10008228/n10008228.github.io
-Branch: matheus-branch
-Date: Thu Jul 16 2026
-
-git push matheus-repo matheus-branch
-To https://github.com/n10008228/n10008228.github.io.git
-   matheus-branch -> matheus-branch (push successful)
-
-View this file on GitHub:
-https://github.com/n10008228/n10008228.github.io/blob/matheus-branch/sentence.txt
